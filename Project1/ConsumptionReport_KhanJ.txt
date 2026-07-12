@@ -1,0 +1,48 @@
+==========================================
+   OFFICIAL DRIVING SIMULATION REPORT    
+==========================================
+Vehicle:    2024 Toyota Prius
+Route:      Vancouver to Surrey
+Distance:   100 km
+Passengers: 1
+Red Lights: 18
+Stop Signs: 12
+TOTAL FUEL: 1031.61
+==========================================
+
+==========================================
+   OFFICIAL DRIVING SIMULATION REPORT    
+==========================================
+Vehicle:    2024 Ford F-150
+Route:      Vancouver to Surrey
+Distance:   100 km
+Passengers: 1
+Red Lights: 9
+Stop Signs: 12
+TOTAL FUEL: 1647.77
+==========================================
+
+==========================================
+   OFFICIAL DRIVING SIMULATION REPORT    
+==========================================
+Vehicle:    2024 Toyota Prius
+Route:      London to Oxford
+Distance:   100 km
+Passengers: 3
+Red Lights: 19
+Stop Signs: 12
+TOTAL FUEL: 1198.73
+==========================================
+
+==========================================
+   OFFICIAL DRIVING SIMULATION REPORT    
+==========================================
+Vehicle:    2024 Tesla Model 3
+Route:      Vancouver to Surrey
+Distance:   100 km
+Passengers: 2
+Red Lights: 17
+Stop Signs: 6
+TOTAL FUEL: 1439.27
+==========================================
+
