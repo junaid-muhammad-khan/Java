@@ -1,0 +1,24 @@
+
+public class SortStringByLength_Base {
+	  public static void main(String[] args) {
+	    String[] cities = {"Atlanta", "Savannah", "New York", "Dallas"};
+	    java.util.Arrays.sort(cities);
+	    for (String s : cities) {
+	        System.out.print(s + " ");
+	      }
+	    System.out.println("\n---------- ");
+	    java.util.Arrays.sort(cities, new MyComparator());
+
+	    for (String s : cities) {
+	      System.out.print(s + " ");
+	    }
+	  }
+
+	  public static class MyComparator implements
+	      java.util.Comparator<String> {
+	    @Override
+	    public int compare(String s1, String s2) {
+	      return s1.length() - s2.length();
+	    }
+	  }
+	}
