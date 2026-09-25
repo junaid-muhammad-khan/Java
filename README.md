@@ -15,11 +15,13 @@ Some files are adapted from examples provided in course materials/books for lear
 
 | Folder | Contents |
 |---|---|
-| `Chap1`–`Chap3`, `Chap8`, `Chap9` | Textbook-aligned practice: data types, functions, points/parameters, collections (`Dictionary`, `Words`), and OOP/interfaces (`StaffMember`, `Encryptable`). |
+| `Chap1`–`Chap3`, `Chap8`, `Chap9`, `Chap18`, `Chap20` | Textbook-aligned practice: data types, functions, points/parameters, collections (`Dictionary`, `Words`), OOP/interfaces (`StaffMember`, `Encryptable`), recursion (factorial, Fibonacci, Towers of Hanoi, Sierpinski triangle), and the Java Collections Framework (comparators, iterators, queues, `Student`/`Car` sorting). |
 | `Lecture3`–`Lecture9` | In-class practice: file I/O and scanning, arrays and static members, method overloading, searching/sorting algorithms, generics, recursion, and comparators. |
 | `Lab2`–`Lab4`, `Lab6` | Graded lab assignments: a movie database, a hotel occupancy report, a survey/random-guess program, and a home-appliance class hierarchy. |
 | `Project1` | **Advanced Vehicle Simulation System** — an interactive driving simulator with vehicle selection (hybrid/turbo/EV), route choice, a trip engine, and a generated receipt report. |
 | `Project2` | **World Cup Simulator** — a round-robin tournament simulator with teams, players, weather effects, and a referee/scoring system. |
+| `Assignment1` | **Word Memory Game** — a console memory game using a stack/queue/linked list, with colored ANSI terminal output and a scoring system. |
+| `Assignment2` | A binary search tree (`BST`) built from real US baby-name birth-record data (`yob2013f.txt`, `yob2013m.txt`), ranking names by frequency. |
 
 ## Highlighted projects
 
